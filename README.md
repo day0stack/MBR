@@ -1,2 +1,2 @@
-# linked-list
-C - Linked list 
+# Mbr show 
+C - mbr  
