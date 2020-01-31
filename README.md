@@ -1,2 +1,0 @@
-# Mbr show 
-C - mbr  
